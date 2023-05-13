@@ -2,8 +2,7 @@ pipeline {
     agent any
 
     tools {        
-        maven "M3"        
-        jdk "JDK 15"
+        maven "M3"  
     }
 
     stages {
